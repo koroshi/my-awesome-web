@@ -88,23 +88,20 @@
    - node.js（es6以及async/await）express和koa等web框架（语言框架）
    - docker（部署）、linux
    - mongodb（数据库）、mysql
-   - rabitmq（消息队列）
+   - rabitmq（消息队列）、MQTT、socket.io
    - nginx（负载均衡）
    - redis（缓存）
 
 
 2. 客户端
    - backbone.js（组件化基础框架）
-   - react、vue（包含很好生态圈的view层）、ssr
+   - react、vue（包含很好生态圈的view层）
 3. 工具
    - git，熟悉gitflow流程
    - vscode（友好typescript）
    - mocha、postman（测试）
-   - restful api，了解GraphQL（接口）
+   - restful api
    - markdown（文档）
-   - rx.js（函数响应式）强大但是侵入性高社区还在争论
-
-
 
 # 教育经历
 
