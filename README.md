@@ -91,4 +91,10 @@
 
 43. Mobaxterm （ssh 工具 有free版 windows）
 
+44. [dataloader](https://sayasuhendra.github.io/graphql-js/7-using-data-loaders/) 【db】【graphql】
+
+45. [knex](https://knexjs.org/) 【db】
+
+46. [prisma](https://www.prisma.io)   【db】
+
     ​
