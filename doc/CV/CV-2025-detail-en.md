@@ -124,6 +124,7 @@ Model Edge enables managemethn the end-to-end model lifecycle while facilitating
    - Restful API
    - Markdown (documentation)
    - GitHub Copilot (AI code tool)
+   - NX (Monorepo)
 4. **cloud**
    - gcp
    - azure
@@ -134,5 +135,3 @@ Shanghai Second Polytechnic University<br>
 Bachelor of Science in Software Engineering<br>
 September 2009 - June 2013<br>
 English (CET-4)
-# Interests  
-Daily 15-30 minute English immersion (listening to podcasts, reading tech blogs), improving professional communication skills. 

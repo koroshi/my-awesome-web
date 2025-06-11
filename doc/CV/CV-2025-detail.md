@@ -149,6 +149,7 @@
    - restful api
    - markdown（文档）
    - github-copilot(ai代码工具)
+   - NX (Monorepo)
 4. 云平台
    - gcp
    - azure
@@ -160,5 +161,3 @@
 软件工程专业<br>
 2009.9-2013.6<br>
 英语(cet-4)
-# 兴趣爱好
-每天进行15-30分钟英语学习（单词，读文章，听短文）
