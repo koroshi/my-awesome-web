@@ -1,10 +1,11 @@
 # 个人信息
-
-###### 姓名：陈欣聪 （男）			出生年月：1990.11			联系电话：18116302795			
-
-###### 工作年限：10年以上			职位：web工程师			邮箱：STLCXC@163.com	
-
-
+<span style="display:inline-block; width:30%;">姓名：陈欣聪 （男）</span>
+<span style="display:inline-block; width:30%;">出生年月：1990.11</span>
+<span style="display:inline-block; width:30%;">联系电话：18116302795</span>
+<br>
+<span style="display:inline-block; width:30%;">工作年限：10年以上	</span>
+<span style="display:inline-block; width:30%;">职位：web全栈工程师</span>
+<span style="display:inline-block; width:30%;">邮箱：STLCXC@163.com</span>
 
 # 项目经验
 ##### 普华永道信息技术（上海）有限公司
@@ -144,12 +145,20 @@
 3. 工具
    - git，熟悉gitflow流程
    - vscode（友好typescript）
-   - mocha、postman（测试）
+   - mocha、 Jtest、postman（测试）
    - restful api
    - markdown（文档）
    - github-copilot(ai代码工具)
+4. 云平台
+   - gcp
+   - azure
+   - aliyun
 
 # 教育经历
-
-上海第二工业大学		本科（学士）		软件工程专业		英语(cet-4)
-
+上海第二工业大学<br>
+本科（学士）<br>		
+软件工程专业<br>
+2009.9-2013.6<br>
+英语(cet-4)
+# 兴趣爱好
+每天进行15-30分钟英语学习（单词，读文章，听短文）

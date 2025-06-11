@@ -1,9 +1,11 @@
 # Personal Information
-
-Name: Chen Xincong (Male)    Date of Birth: November 1990    Contact Number: 18116302795
-
-Work Experience: Over 10 years    Position: Web Engineer    Email: STLCXC@163.com
-
+<span style="display:inline-block; width:30%;">Name: Chen Xincong (Male)</span>
+<span style="display:inline-block; width:30%;">Date of Birth: November 1990</span>
+<span style="display:inline-block; width:30%;">Contact Number: 18116302795</span>
+<br>
+<span style="display:inline-block; width:30%;">Work Experience: Over 10 years</span>
+<span style="display:inline-block; width:30%;">Position: Web FullStack Engineer</span>
+<span style="display:inline-block; width:30%;">Email: STLCXC@163.com</span>
 
 # Project Experience
 ### PwC Information Technology (Shanghai) Co., Ltd.
@@ -118,11 +120,19 @@ Model Edge enables managemethn the end-to-end model lifecycle while facilitating
 3. **Tools**
    - Git, familiar with the git - flow process
    - VSCode (friendly to TypeScript)
-   - Mocha, Postman (testing)
+   - Mocha, Jtest, Postman (testing)
    - Restful API
    - Markdown (documentation)
    - GitHub Copilot (AI code tool)
+4. **cloud**
+   - gcp
+   - azure
+   - aliyun
 
 # Education Background
-
-Shanghai Second Polytechnic University    Bachelor's Degree    Software Engineering Major    English (CET - 4)
+Shanghai Second Polytechnic University<br>
+Bachelor of Science in Software Engineering<br>
+September 2009 - June 2013<br>
+English (CET-4)
+# Interests  
+Daily 15-30 minute English immersion (listening to podcasts, reading tech blogs), improving professional communication skills. 
