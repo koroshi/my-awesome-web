@@ -5,13 +5,11 @@
 - Email: STLCXC@163.com
 
 # Job Seeking Intentions
-- Target Position: Senior Full - Stack Engineer (Web/AI Direction)
-- Expected Industry: Internet/Technology/Enterprise Services
+- Target Position: Full - Stack Engineer (Web/AI Direction)
 - Core Technology Stack:
   - **Main Frameworks**: Node.js/React/Angular (Proficient in state management and component - based design)
   - Extended Stack: Golang/Vue
   - **Cutting - edge Technologies**: AI integration (RAG/Intelligent Search)/Low - code platforms/Microservice architecture (Nx Monorepo/MFE)
-- Expected Work Location: Shanghai (Remote collaboration available)
 
 # Key Strengths
 1. **Full - stack Architecture and High - performance Optimization**:
@@ -24,36 +22,21 @@
 # Project Experience
 
 ## PwC Information Technology (Shanghai) Co., Ltd. (Mar 2019 - Jun 2025)
-### PwC Workforce Orchestrator (Mar 2019 - Jun 2023)
-- **Project Overview**: This project aims to enhance team productivity and engagement through customized digital experiences. Workforce Orchestrator, as an intelligent digital platform, connects people, information, and applications in real - time to create an efficient working environment. It uses a mobile engagement platform for one - to - one communication, supports personalized message push and task management. It also uses automated chatbots to respond to inquiries and collects feedback through pulse surveys to adjust strategies, empowering employees in all aspects and fostering a culture of continuous improvement.
-- **Technology Stack**:
+### Concourse (Sep 2024 - May 2025)
+- **Project Overview**: A simplified, intelligent, and transparent delivery platform that makes complex interactions easy.
+- **Technology Stack**: 
   Full - stack: TypeScript/ApolloGraphql
-  Front - end: Angular
-  Back - end: Node.js/Express
-  Cloud Services: GCP Firebase/Pub/Sub/Google Dialogflow
+  Front - end: React/Azure Power App
+  Back - end: Node.js/Nest.js
+  Cloud Services: Azure Service Bus
   Databases: PostgreSQL/Redis
 - **Personal Contributions**:
-  - Designed a distributed real - time communication system (Firebase), achieving a message push success rate of over 99% and supporting high - concurrency scenarios (peak TPS of over 2000).
-  - Optimized asynchronous data processing based on Pub/Sub + Express + GraphQL, improving the system response speed by 60%.
-  - Led the design of a single - sign - on system, implementing independent login logic across platforms (PC/mobile) and solving the problem of mutually exclusive logins on the same platform.
-  - Abstracted the message service layer, unifying the call interfaces of Teams/SMS/Web IM and supporting dynamic configuration of the number of channel services.
-  - Integrated Dialogflow to implement an intelligent customer service, completing natural language processing and action binding, and increasing user satisfaction by 35%.
-  - Participated in the UI version iteration to make the interface clearer and more fluent, and the permission pages of managers and onboardees more explicit, improving the user page efficiency by 50%.
-  - Participated in the design and implementation of the feature flag function to ensure partial availability of the system, with the same permissions for web, back - end, and message entry users, and dynamic user visibility.
-
-### Model Edge (Jun 2023 - Jun 2024)
-- **Project Overview**: Provides a better model governance and verification model, supporting end - to - end model lifecycle management. It enables the management, development, verification, and governance of all model combinations (including AI models) in a single platform. By demonstrating model effectiveness and interpretability, it enhances confidence in model projects.
-- **Technology Stack**:
-  Full - stack: TypeScript/ApolloGraphql
-  Front - end: Angular
-  Back - end: Node.js/Express
-  Cloud Services: GCP Firebase/Pub/Sub/Azure Service Bus/AWS SQS
-  Databases: PostgreSQL/Redis
-- **Personal Contributions**:
-  - Designed the ResponseAI system and risk calculation logic, improving the risk assessment accuracy by 25% through dynamic model selection and supporting tens of millions of transaction scenarios.
-  - Integrated a login system based on Azure user authentication, increasing the diversity of login methods.
-  - Unified the message queue services of multi - cloud platforms (Azure Service Bus/AWS SQS/GCP Pub/Sub), reducing cross - cloud deployment costs by 30% and increasing code reuse rate to 80%.
-  - Conducted performance testing and optimization using JMeter, reducing the core interface response time from 5s to 800ms and meeting the SLA 99.9% requirement.
+  - On the back - end, was responsible for maintaining various data CRUD APIs to ensure efficient data management and operations.
+  - On the front - end, participated in the design and development of the home page, improving the platform's user interface experience.
+  - Wrote scripts for maintaining and updating customer data, improving the automation and accuracy of data processing.
+  - Understood the front - end project structure of MFE, making the module division in large - project collaboration more clear and independent.
+  - Participated in the migration of Monorepo based on Nx, solving the problems of inconsistent multi - service version libraries and complex and bloated project startup in the microservice architecture.
+  - Participated in the design and implementation of the migration of some front - end pages from Azure Power App to React.
 
 ### AI Flow Creator (Jul 2024 - May 2025)
 - **Project Overview**: An internal POC project, an AI low - code platform based on Flowise, integrating the company's internal systems and customizing front - end AI and components to facilitate the construction of AI robots.
@@ -71,21 +54,36 @@
     - Implemented an AI search function, with a search efficiency 80% higher than that of traditional browsers.
     - Implemented a large - document Q&A system based on RAG, increasing the answer relevance by 60% through vector retrieval.
 
-### Concourse (Sep 2024 - May 2025)
-- **Project Overview**: A simplified, intelligent, and transparent delivery platform that makes complex interactions easy.
-- **Technology Stack**: 
+### Model Edge (Jun 2023 - Jun 2024)
+- **Project Overview**: Provides a better model governance and verification model, supporting end - to - end model lifecycle management. It enables the management, development, verification, and governance of all model combinations (including AI models) in a single platform. By demonstrating model effectiveness and interpretability, it enhances confidence in model projects.
+- **Technology Stack**:
   Full - stack: TypeScript/ApolloGraphql
-  Front - end: React/Azure Power App
-  Back - end: Node.js/Nest.js
-  Cloud Services: Azure Service Bus
+  Front - end: Angular
+  Back - end: Node.js/Express
+  Cloud Services: GCP Firebase/Pub/Sub/Azure Service Bus/AWS SQS
   Databases: PostgreSQL/Redis
 - **Personal Contributions**:
-  - On the back - end, was responsible for maintaining various data CRUD APIs to ensure efficient data management and operations.
-  - On the front - end, participated in the design and development of the home page, improving the platform's user interface experience.
-  - Wrote scripts for maintaining and updating customer data, improving the automation and accuracy of data processing.
-  - Understood the front - end project structure of MFE, making the module division in large - project collaboration more clear and independent.
-  - Participated in the migration of Monorepo based on Nx, solving the problems of inconsistent multi - service version libraries and complex and bloated project startup in the microservice architecture.
-  - Participated in the design and implementation of the migration of some front - end pages from Azure Power App to React.
+  - Designed the ResponseAI system and risk calculation logic, improving the risk assessment accuracy by 25% through dynamic model selection and supporting tens of millions of transaction scenarios.
+  - Integrated a login system based on Azure user authentication, increasing the diversity of login methods.
+  - Unified the message queue services of multi - cloud platforms (Azure Service Bus/AWS SQS/GCP Pub/Sub), reducing cross - cloud deployment costs by 30% and increasing code reuse rate to 80%.
+  - Conducted performance testing and optimization using JMeter, reducing the core interface response time from 5s to 800ms and meeting the SLA 99.9% requirement.
+
+### PwC Workforce Orchestrator (Mar 2019 - Jun 2023)
+- **Project Overview**: This project aims to enhance team productivity and engagement through customized digital experiences. Workforce Orchestrator, as an intelligent digital platform, connects people, information, and applications in real - time to create an efficient working environment. It uses a mobile engagement platform for one - to - one communication, supports personalized message push and task management. It also uses automated chatbots to respond to inquiries and collects feedback through pulse surveys to adjust strategies, empowering employees in all aspects and fostering a culture of continuous improvement.
+- **Technology Stack**:
+  Full - stack: TypeScript/ApolloGraphql
+  Front - end: Angular
+  Back - end: Node.js/Express
+  Cloud Services: GCP Firebase/Pub/Sub/Google Dialogflow
+  Databases: PostgreSQL/Redis
+- **Personal Contributions**:
+  - Designed a distributed real - time communication system (Firebase), achieving a message push success rate of over 99% and supporting high - concurrency scenarios (peak TPS of over 2000).
+  - Optimized asynchronous data processing based on Pub/Sub + Express + GraphQL, improving the system response speed by 60%.
+  - Led the design of a single - sign - on system, implementing independent login logic across platforms (PC/mobile) and solving the problem of mutually exclusive logins on the same platform.
+  - Abstracted the message service layer, unifying the call interfaces of Teams/SMS/Web IM and supporting dynamic configuration of the number of channel services.
+  - Integrated Dialogflow to implement an intelligent customer service, completing natural language processing and action binding, and increasing user satisfaction by 35%.
+  - Participated in the UI version iteration to make the interface clearer and more fluent, and the permission pages of managers and onboardees more explicit, improving the user page efficiency by 50%.
+  - Participated in the design and implementation of the feature flag function to ensure partial availability of the system, with the same permissions for web, back - end, and message entry users, and dynamic user visibility.
 
 ## Shanghai Xiudian Network Technology Co., Ltd. (Aug 2018 - Feb 2019)
 ### A TV Station App (Oct 2018 - Feb 2019)
@@ -230,5 +228,5 @@
 - **Time**: Sep 2009 - Jun 2013
 
 ## Language Proficiency
-- English: CET - 4, proficient in reading technical documents (such as MDN official documents) and communicating in English technical conferences
+- English: proficient in reading technical documents (such as MDN official documents) and communicating in English technical conferences
 - Mandarin: Native - level proficiency, outstanding ability to report technical solutions
