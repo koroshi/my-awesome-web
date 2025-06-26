@@ -18,13 +18,6 @@
 # Project Experience
 
 ## PwC Information Technology (Shanghai) Co., Ltd. (Mar 2019 - Jun 2025)
-### Concourse (Sep 2024 - May 2025)
-- **Project Overview**: A simplified, intelligent, and transparent delivery platform that makes complex interactions easy.
-- **Personal Contributions**:
-  - Wrote scripts for maintaining and updating customer data, improving the automation and accuracy of data processing.
-  - Understood the front - end project structure of MFE, making the module division in large - project collaboration more clear and independent.
-  - Participated in the migration of Monorepo based on Nx, solving the problems of inconsistent multi - service version libraries and complex and bloated project startup in the microservice architecture.
-
 ### AI Flow Creator (Jul 2024 - May 2025)
 - **Project Overview**: An internal POC project, an AI low - code platform based on Flowise, integrating the company's internal systems and customizing front - end AI and components to facilitate the construction of AI robots.
 - **Personal Contributions**:
