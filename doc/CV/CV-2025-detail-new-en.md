@@ -221,12 +221,12 @@
 - **Testing and CI/CD**: Mocha/JMeter/Postman/Jtest automated testing/GitFlow version management/Jenkins continuous integration
 - **AI - assisted Development**: GitHub Copilot code generation/Low - code platform secondary development
 
-## Education Background
+# Education Background
 - **School**: Shanghai Polytechnic University
 - **Degree**: Bachelor's Degree
 - **Major**: Software Engineering
 - **Time**: Sep 2009 - Jun 2013
 
-## Language Proficiency
+# Language Proficiency
 - English: proficient in reading technical documents (such as MDN official documents) and communicating in English technical conferences
 - Mandarin: Native - level proficiency, outstanding ability to report technical solutions
